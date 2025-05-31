@@ -176,7 +176,9 @@ gap:5px;
     }
     .footer-midrow3{
       padding: opx 10px;
-
+ line-break: auto;
+      line-height:30px ;
+      text-overflow:wrap ;
     }
     .footermid-row2{
        flex-direction: column;
